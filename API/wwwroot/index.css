@@ -1,0 +1,27 @@
+body {
+  color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  background-image: url('./Content/assets/API_background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.About {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  background-color: rgba(245, 245, 245, 0.938);
+  color: black;
+  box-shadow: 0 2px 15px rgba(195, 82, 240, 0.699);
+  border-radius: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-top: 25%;
+}
+
+.Title {
+  font-weight: bold;
+}
